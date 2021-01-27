@@ -16,3 +16,6 @@ My stupid boss still prefers SVN.     1	Git is a distributed version control sys
      3	Git has a mutable index called stage.
      4	Git tracks changes of files.
      5	My stupid boss still prefers SVN.
+Creating a new branch is quick AND simple.
+Creating a new branch is quick AND simple.
+Creating a new branch is quick AND simple.
